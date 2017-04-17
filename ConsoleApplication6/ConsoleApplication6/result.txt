@@ -1,8 +1,0 @@
-ss : 5.000s
-invalid input
-sss : 244.000s
-invalid input
-ssss : 4.000s
-MIKE : 3662.001s
-invalid input
-MIKE : 7871.001s
