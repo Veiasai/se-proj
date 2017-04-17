@@ -1,0 +1,5 @@
+﻿  源.cpp
+c:\users\o72o\documents\visual studio 2015\projects\consoleapplication6\consoleapplication6\源.cpp(15): warning C4101: “r”: 未引用的局部变量
+c:\users\o72o\documents\visual studio 2015\projects\consoleapplication6\consoleapplication6\源.cpp(91): warning C4018: “<”: 有符号/无符号不匹配
+  ConsoleApplication6.vcxproj -> c:\users\o72o\documents\visual studio 2015\Projects\ConsoleApplication6\Debug\ConsoleApplication6.exe
+  ConsoleApplication6.vcxproj -> c:\users\o72o\documents\visual studio 2015\Projects\ConsoleApplication6\Debug\ConsoleApplication6.pdb (Full PDB)
